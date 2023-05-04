@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Tee shirt",
+    "price": 2500,
+    "rating": 4,
+    "company":"liddy"
+  },
+  {
+    "name":"Lacoste",
+    "price": 4500,
+    "rating": 4,
+    "company":"marcos"
+  },
+  {
+    "name":"Jean",
+    "price": 2500,
+    "rating": 3,
+    "company":"liddy"
+  },
+  {
+    "name":"Casquette ",
+    "price": 1500,
+    "rating": 2,
+    "company":"marcos"
+  }
+]
